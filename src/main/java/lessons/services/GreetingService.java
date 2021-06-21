@@ -1,2 +1,5 @@
-package lessons.services;public interface GreetingService {
+package lessons.services;
+
+public interface GreetingService {
+    String sayGreeting();
 }
