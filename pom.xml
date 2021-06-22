@@ -5,7 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>spring-projects.guides</groupId>
   <artifactId>spring-lessons</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>pr3</module>
+      <module>pr3</module>
+    <module>prac3</module>
+  </modules>
   <properties>
     <java-version>1.8</java-version>
     <sl4j-version>1.5.8</sl4j-version>
