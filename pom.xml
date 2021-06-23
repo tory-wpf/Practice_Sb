@@ -11,6 +11,7 @@
     <module>pr3</module>
       <module>pr3</module>
     <module>prac3</module>
+      <module>prac4</module>
   </modules>
   <properties>
     <java-version>1.8</java-version>
