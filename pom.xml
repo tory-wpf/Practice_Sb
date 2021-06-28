@@ -8,11 +8,12 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>pr3</module>
-      <module>pr3</module>
+<!--    <module>pr3</module>-->
+<!--      <module>pr3</module>-->
     <module>prac3</module>
       <module>prac4</module>
       <module>prac5</module>
+      <module>prac6</module>
   </modules>
   <properties>
     <java-version>1.8</java-version>
