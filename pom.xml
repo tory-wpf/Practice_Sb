@@ -14,6 +14,7 @@
       <module>prac4</module>
       <module>prac5</module>
       <module>prac6</module>
+      <module>prac8</module>
   </modules>
   <properties>
     <java-version>1.8</java-version>

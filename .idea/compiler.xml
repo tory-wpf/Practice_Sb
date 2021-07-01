@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="prac3" />
+        <module name="prac8" />
         <module name="prac6" />
         <module name="prac5" />
       </profile>
@@ -29,6 +30,7 @@
       <module name="prac4" options="-parameters" />
       <module name="prac5" options="-parameters" />
       <module name="prac6" options="-parameters" />
+      <module name="prac8" options="-parameters" />
     </option>
   </component>
 </project>
